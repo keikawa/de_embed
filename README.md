@@ -11,7 +11,7 @@
 
 ├── main.py
 
-├── deemb.py(Python module of various de-embedding methods)
+├── deemb.py (Python module of various de-embedding methods)
 
 ├── output  (De-embedded touchstones are saved here)
 
@@ -25,6 +25,22 @@
 2. Save the measured touchstones of the dummies, such as open or short, at the "dummy" directory
 3. Set a de-embedding method in main.py, line 23, for example `method = 'open'`
 4. Run main.py
+
+## Supported method and its required dummy
+
+- Open (Open only)
+- Short (Short only)
+- Open_short (Open and short)
+- Short_open (Short and open)
+- Split-I (Thru only)
+- Split-Pi (Thru only)
+- Split-T (Thru only)
+- ICS-Y (Thru only)
+- ICS-Z (Thru only)
+- ICS-YZ (Thru only)
+- ICS-ZY (Thru only)
+
+!! Note that ICS (Imittance Cancelation by Swapping) methods are available for only symmetric (i.e. S11=S22 and S12=S21) DUTs
 
 ## Contribution
 
