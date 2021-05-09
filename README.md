@@ -35,7 +35,7 @@
 - Split-I (Thru only)
 - Split-Pi (Thru only)
 - Split-T (Thru only)
-- ICS-Y (Thru only)
+- ICS-Y (Thru only) : also known as Mangan's method
 - ICS-Z (Thru only)
 - ICS-YZ (Thru only)
 - ICS-ZY (Thru only)
