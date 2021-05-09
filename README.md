@@ -26,7 +26,7 @@
 3. Set a de-embedding method in main.py, line 23, for example `method = 'open'`
 4. Run main.py
 
-## Supported method and its required dummy
+## Supported methods and these required dummy
 
 - Open (Open only)
 - Short (Short only)
