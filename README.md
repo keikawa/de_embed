@@ -1,5 +1,5 @@
 # de_embed
- Python scripts for on-wafer de-embedding
+ Python scripts for S-parameter deembedding
  
 ## Requirement
 
