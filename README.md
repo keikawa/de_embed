@@ -40,7 +40,7 @@
 - ICS-YZ (Thru only)
 - ICS-ZY (Thru only)
 
-!! Note that ICS (Imittance Cancelation by Swapping) methods are available for only symmetric (i.e. S11=S22 and S12=S21) DUTs
+!! Note that ICS (Imittance Cancellation by Swapping) methods are available for only symmetric (i.e. S11=S22 and S12=S21) DUTs
 
 ## Contribution
 
