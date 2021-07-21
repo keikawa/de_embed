@@ -1,5 +1,5 @@
 # de_embed
- Python scripts for on-wafer de-embedding
+ Python scripts for S-parameter deembedding
  
 ## Requirement
 
@@ -26,7 +26,7 @@
 3. Set a de-embedding method in main.py, line 23, for example `method = 'open'`
 4. Run main.py
 
-## Supported method and its required dummy
+## Supported methods and these required dummy
 
 - Open (Open only)
 - Short (Short only)
@@ -35,7 +35,7 @@
 - Split-I (Thru only)
 - Split-Pi (Thru only)
 - Split-T (Thru only)
-- ICS-Y (Thru only)
+- ICS-Y (Thru only) : also known as Mangan's method
 - ICS-Z (Thru only)
 - ICS-YZ (Thru only)
 - ICS-ZY (Thru only)
