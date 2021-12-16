@@ -1,6 +1,11 @@
 # de_embed
  Python scripts for S-parameter deembedding
  
+## Notice
+
+scikit-rf has implemented a de-embedding class, and it is recommended to use it now.
+https://scikit-rf.readthedocs.io/en/latest/tutorials/Deembedding.html
+ 
 ## Requirement
 
 - Python3
